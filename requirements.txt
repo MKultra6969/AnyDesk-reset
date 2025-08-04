@@ -1,3 +1,8 @@
-colorama
-tk
-pyfiglet
+certifi==2025.4.26
+charset-normalizer==3.4.1
+colorama==0.4.6
+idna==3.10
+pyfiglet==1.0.2
+requests==2.32.3
+tqdm==4.67.1
+urllib3==2.4.0
